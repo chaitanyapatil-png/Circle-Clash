@@ -1,0 +1,67 @@
+# 🕹️ Circle Collector – A Pygame Strategy Game
+
+Welcome to **Circle Collector**, a competitive and fast-paced Pygame-based arcade game where you race against a bot to collect and deliver circles. Customize speed, score goals, and enjoy immersive sound effects.
+
+---
+
+## 🎮 Game Features
+
+- ✅ Collect colored circles before the bot does
+- ✅ Drop them in your delivery zone to score
+- ✅ Dynamic bot opponent with speed settings
+- ✅ Missions with different speed & score rules
+- ✅ Background music & action sound effects
+- ✅ Works on Windows, macOS, Linux
+
+---
+
+## 🎯 How to Play
+
+- 🟥 **Player 1 Controls:**
+  - `Arrow Keys` → Move
+  - `Z` → Pick circle
+  - `Space` → Dash
+
+- 🤖 **Bot Player** moves automatically and competes to collect circles.
+
+- 🎯 Drop collected circles into your color zone to score points.
+- 🏆 First to reach the set **win score** wins!
+
+---
+
+## 🧩 How to Install (Step-by-Step)
+make sure all file in one location ? In one File, if you have VSCode then just Copy and insatll Modules , and Injoy
+
+
+> 💻 Works on **Windows, macOS, Linux**  
+> 🐍 Requires **Python 3.x** and **Pygame**
+
+---
+
+### 🔧 Step 1: Install Python
+
+1. Download Python from: https://www.python.org/downloads  
+2. ✅ Make sure to check **"Add Python to PATH"** during installation.
+
+---
+
+### 🌀 Step 2: Install Pygame
+
+Open a terminal or command prompt and run:
+
+```bash
+pip install pygame
+
+### Step 3: Clone from GitHub
+Run the following command:
+
+bash
+Copy
+Edit
+git clone https://github.com/chaitanyapatil-png/Circle-Clash.git
+cd Circle-Clash
+
+Step 4: Run the Game
+python Game.py
+
+Enjoy playing, and don't forget to ⭐ star the repo if you liked it!
